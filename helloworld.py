@@ -1,1 +1,1 @@
-print("Hi! It's tutorial for github!")
+print("Hi! It's tutorial for github!"
